@@ -1,5 +1,5 @@
 # Desafio-DIO-ataque-ransomware-e-keylogger
-Este desafio consistia em simular um ransomware para fazer a criptografia de dados e também um keylogger furtivo e automático para a captura de teclas feitas no sistema.
+Este desafio consiste em simular um ransomware para fazer a criptografia de dados e também um keylogger furtivo e automático para a captura de teclas digitadas no sistema.
 
 # Criptografando Dados
 No arquivo "Ransomware" possui um malware programado em python para simular um ataque ransomware utilizando a biblioteca de criptografia Fernet que consiste em 5 passos.
